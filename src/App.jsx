@@ -84,6 +84,9 @@ function App() {
             </div>
           </div>
         )}
+        <footer className="footer">
+    © 2026 Manu • Built with React
+  </footer>
       </div>
     </div>
   );
